@@ -1,0 +1,14 @@
+# Olist CSVs: large + Kaggle license — download into data/ locally (see README)
+data/*.csv
+
+# Local env overrides (optional)
+.env
+.env.local
+
+# Python
+__pycache__/
+*.py[cod]
+.Python
+*.egg-info/
+.venv/
+venv/
