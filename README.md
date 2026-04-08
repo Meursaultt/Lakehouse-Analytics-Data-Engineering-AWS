@@ -24,7 +24,7 @@ A end-to-end **Data Engineering** project built on the [Olist Brazilian E-Commer
 
 ## 📊 Power BI Dashboard
 
-![Dashboard](docs/Dashboard.png)
+![Dashboard]
 
 Key metrics exposed from the Gold layer:
 - **98,666K** Total Orders processed
