@@ -1,5 +1,5 @@
 # Olist CSVs: large + Kaggle license — download into data/ locally (see README)
-data/*.csv
+data/
 
 # Local env overrides (optional)
 .env
