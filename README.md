@@ -24,7 +24,7 @@ A end-to-end **Data Engineering** project built on the [Olist Brazilian E-Commer
 
 ## 📊 Power BI Dashboard
 
-![Dashboard](docs/dashboard.png)
+![Dashboard](docs/Dashboard.png)
 
 Key metrics exposed from the Gold layer:
 - **98,666K** Total Orders processed
@@ -78,12 +78,7 @@ lakehouse-project/
 │   └── gold_job.py             # PySpark aggregation job
 ├── kafka/
 │   └── producer.py             # Simulates order events from CSV
-├── data/
-│   └── (Olist CSV files — not committed)
-├── docs/
-│   ├── architecture.png
-│   ├── dashboard.png
-│   └── minio.png
+├── data
 ├── docker-compose.yml
 └── README.md
 ```
